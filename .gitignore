@@ -1,0 +1,5 @@
+#module package json
+node_modules/
+
+#mac hidden files
+.DS_Store
